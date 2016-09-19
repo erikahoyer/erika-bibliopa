@@ -1,0 +1,8 @@
+com\hoyer\erika\pa\handlers\EditHandler.class
+com\hoyer\erika\pa\controller\BiblioController.class
+com\hoyer\erika\pa\handlers\InterfaceBiblioHandler.class
+com\hoyer\erika\pa\handlers\IndexHandler.class
+com\hoyer\erika\pa\model\BiblioModel.class
+com\hoyer\erika\pa\model\BaseDAO.class
+com\hoyer\erika\pa\tags\BiblioTags.class
+com\hoyer\erika\pa\model\DataBaseDAO.class

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/erika-bibliopa">
+    <Resource 
+      name="jdbc/referenciasbibliograficas"
+      url="jdbc:postgresql://localhost:5432/referenciasbibliograficas"
+      username="postgres"
+      password="postgres"
+
+      driverClassName="org.postgresql.Driver"
+      type="javax.sql.DataSource"
+
+      auth="Container"
+      logAbandoned="false"
+      maxActive="200"
+      maxIdle="100"
+      maxWait="-1"
+      removeAbandoned="true"
+      removeAbandonedTimeout="60"
+  />
+</Context>
